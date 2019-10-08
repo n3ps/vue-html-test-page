@@ -4,7 +4,7 @@ Quickly see how your application renders common html elements.
 
 ### Install
 ```
-npm install https://github.com/n3ps/vue-html-test-page
+$ npm install vue-html-test-page
 ```
 
 ### Usage
