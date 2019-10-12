@@ -1,5 +1,10 @@
 # vue-html-test-page
-Quickly see how your application renders common html elements.
+Quickly see how your application renders common html elements:
+- Headings
+- Formatting Elements
+- Lists
+- Tables
+- Forms
 
 
 ### Install
