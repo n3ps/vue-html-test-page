@@ -1,4 +1,6 @@
 # vue-html-test-page
+[![npm version](https://badge.fury.io/js/vue-html-test-page.svg)](https://badge.fury.io/js/vue-html-test-page)
+
 Quickly see how your application renders common html elements:
 - Headings
 - Formatting Elements
